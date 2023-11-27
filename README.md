@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="tanvir214.github.io/404_Not_Found/">
+    <a href="https://tanvir214.github.io/404_Not_Found/">
       Demo
     </a>
     <span> | </span>
@@ -21,7 +21,7 @@
 </div>
 
 ## Overview
-Create a 404 not found page following figma design. The page is responsive. 
+Create a 404 not found page following figma design. The page is responsive.
 
 ### Built With
 - HTML
