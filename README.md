@@ -20,6 +20,9 @@
   </h3>
 </div>
 
+## Overview
+Create a 404 not found page following figma design. The page is responsive. 
+
 ### Built With
 - HTML
 - CSS

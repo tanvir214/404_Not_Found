@@ -20,25 +20,13 @@ main {
     align-items: center;
     gap: 118px;
     padding-top: 200px;
-    /* justify-content: center; */
-    /* flex-wrap: wrap; */
 }
-
-
-/* .main_img {
-    width: 50%;
-} */
 
 .main_img img {
     width: 100%;
 }
 
-/* .main_cont {
-    width: 60%;
-} */
-
 .main_cont h1 {
-    /* margin-top: 200px; */
     color: #333;
     font-size: 64px;
     font-weight: 700;
@@ -72,6 +60,7 @@ footer h3{
     font-weight: 500;
     padding: 300px 0 24px 0;
 }
+
 
 @media screen and (max-width: 576px) {
     body{
